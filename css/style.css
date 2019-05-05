@@ -1,0 +1,13 @@
+* {
+   margin: 0;
+   padding: 0;
+}
+
+body {
+   width: 1200px;
+}
+
+p {
+   margin: auto;
+   font-size: 2rem;
+}
