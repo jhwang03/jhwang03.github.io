@@ -11,4 +11,5 @@ body {
 p {
    margin: auto;
    font-size: 2rem;
+   color: blue;
 }
