@@ -8,8 +8,29 @@ body {
    width: 1200px;
 }
 
-p {
-   margin: 0 auto;
+h1 {
    font-size: 2rem;
-   color: blue;
+   text-align: center;
+   background-color: skyblue;
+}
+
+p {
+   text-align: center;
+   margin: 0 auto;
+   font-size: 1rem;
+   color: pink;
+}
+
+a:link {
+   color: pink;
+}
+
+a:visited {
+   color: pink;
+}
+
+a:hover {
+   background-color: yellow;
+   transition: .3ms;
+   font-size: 2rem;
 }
