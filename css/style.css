@@ -9,7 +9,7 @@ body {
 }
 
 p {
-   margin: auto;
+   margin: 0 auto;
    font-size: 2rem;
    color: blue;
 }
