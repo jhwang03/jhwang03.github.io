@@ -23,6 +23,7 @@ p {
 }
 
 a:link {
+   text-decoration: none;
    color: pink;
 }
 
