@@ -9,6 +9,7 @@ body {
 }
 
 h1 {
+   margin: auto;
    font-size: 2rem;
    text-align: center;
    background-color: skyblue;
@@ -31,6 +32,6 @@ a:visited {
 
 a:hover {
    background-color: yellow;
-   transition: .3ms;
+   transition: .7ms;
    font-size: 2rem;
 }
